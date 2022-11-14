@@ -1,16 +1,18 @@
-### Hi there 👋
+Welcome to my corner of the internet <br>
+I'm ShiroC0de. <br>
+I'm a hobbyist Programmer and I love to write some code to get better and improve my skills .
 
-<!--
-**C0de4Pizza/C0de4Pizza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+my best friend:
 
-Here are some ideas to get you started:
+- https://github.com/ShiroC0de
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Social:
+- https://twitter.com/C0de4Pizza
+
+
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=C0de4Pizza&show_icons=true&theme=tokyonight" />
+</a>
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C0de4Pizza&layout=compact&show_icons=true&theme=tokyonight" />
+</a>
